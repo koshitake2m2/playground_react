@@ -2,6 +2,7 @@
   "name": "@pkg/ui",
   "private": true,
   "version": "0.0.0",
+  "main": "src/index.ts",
   "type": "module",
   "scripts": {
     "dev": "vite",
