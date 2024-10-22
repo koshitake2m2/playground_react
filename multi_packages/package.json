@@ -1,0 +1,10 @@
+{
+  "name": "multi_packages",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "web:dev": "pnpm --filter web dev",
+    "api:dev": "pnpm --filter api dev",
+    "test": "pnpm -r test"
+  }
+}
