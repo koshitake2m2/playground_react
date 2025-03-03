@@ -1,0 +1,9 @@
+version: v2
+modules:
+  - path: playground_schema/proto/sample
+lint:
+  use:
+    - STANDARD
+breaking:
+  use:
+    - FILE
